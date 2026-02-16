@@ -1,0 +1,25 @@
+# STM32CubeIDE Build Folders
+Debug/
+Release/
+
+# Compiled Object files
+*.o
+*.elf
+*.bin
+*.map
+*.hex
+*.list
+*.su
+
+# IDE Specific files
+.settings/
+*.launch
+
+# Python Ignores
+__pycache__/
+*.pyc
+.venv/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
